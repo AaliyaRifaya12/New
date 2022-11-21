@@ -14,7 +14,6 @@ System.out.println(a[i]);
 for (int i =a.length-1;i>=0;i--) {
 	System.out.println(a[i]);
 	System.out.println("butterfly");
-	System.out.println("butterfly program");
 	
 }
 	}
